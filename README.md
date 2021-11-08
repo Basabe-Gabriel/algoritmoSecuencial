@@ -1,0 +1,2 @@
+# algoritmoSecuencial
+Created with CodeSandbox
